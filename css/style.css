@@ -1,0 +1,14 @@
+/*
+ Theme Name:   Pousada Paraiso
+ Theme URI:    https://paraisonoronha.com.br
+ Description:  Paraiso Child Theme
+ Author:       Walsa
+ Author URI:   http://walsa.com.br
+ Template:     sailing
+ Version:      1.0.0
+ Text Domain:  sailing-child
+*/
+
+.widget-title{font-family: 'Barlow', sans-serif!important;font-weight:200!important;}
+.widget-title::before{display:none!important;}
+
